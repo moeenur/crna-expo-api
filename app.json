@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "sdkVersion": "26.0.0",
+    "slug": "crna-exp-api",
+    "name": "crna-exp-api",
+    "version": "1.0.0",
+    "icon": "./src/assets/images/icon.png",
+    "splash": {
+      "image": "./src/assets/images/splash.png",
+      "resizeMode": "contain",
+      "exponentIconColor": "blue",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "./src/assets/**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.moeenur.crnaexpapi"
+    },
+    "android": {
+      "package": "com.moeenur.crnaexpapi"
+    }
+  }
+}
